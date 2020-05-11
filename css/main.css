@@ -1,0 +1,26 @@
+/* ver depois o porque o link não esta colocando o estilo no vsCode, mas em outra plataforma sim.
+No caso Usar style no Index pra compensar o problema de css  
+ body {
+       background-image: url(https://6370.cdn.simplo7.net/static/6370/sku/tricoline-tricoline-estampado-bolinhas-medias-branco-fundo-azul-claro-1039vr082--p-1584563561535.jpg);
+   }
+
+   .menu {
+       background-color: white; opacity: 0.7;
+   }
+
+   .menu ul {
+       display: flex;
+       justify-content: space-around;
+   }
+
+   .menu li{
+       list-style: none;
+   }
+   
+   a {
+       text-decoration: none;
+   }
+
+   colocar em index ( no caso ainda recusa no vs code, mas pega no studio)
+   <link rel="stylesheet" type="text/css" href="./css/main.css">
+   */
